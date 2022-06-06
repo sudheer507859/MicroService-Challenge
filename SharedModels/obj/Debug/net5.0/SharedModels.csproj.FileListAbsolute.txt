@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\bin\Debug\net5.0\SharedModels.deps.json
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\bin\Debug\net5.0\SharedModels.dll
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\bin\Debug\net5.0\ref\SharedModels.dll
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\bin\Debug\net5.0\SharedModels.pdb
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\obj\Debug\net5.0\SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\obj\Debug\net5.0\SharedModels.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\obj\Debug\net5.0\SharedModels.AssemblyInfo.cs
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\obj\Debug\net5.0\SharedModels.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\obj\Debug\net5.0\SharedModels.dll
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\obj\Debug\net5.0\ref\SharedModels.dll
+C:\Users\Dell\source\repos\microservice-challenge\SharedModels\obj\Debug\net5.0\SharedModels.pdb
